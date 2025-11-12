@@ -1,1 +1,2 @@
 this is new text file testing for jenkins 
+1st change test to check the build is running after the commit
